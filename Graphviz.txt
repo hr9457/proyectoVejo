@@ -1,0 +1,27 @@
+digraph grafica{
+rankdir=TB;
+node [shape = record, style=filled, fillcolor=seashell2];
+nodo0 [ label ="Cod. 433 | Mario Arnulfo Prera"];
+nodo1 [ label ="Cod. 395 | Jose Fernando Aguirre"];
+nodo2 [ label ="Cod. 017 | Jorge Daniel Morales"];
+nodo3 [ label ="Cod. 348 | Eduardo Javier Florian"];
+nodo4 [ label ="Cod. 019 | Donoban Manuel Orellana"];
+nodo5 [ label ="Cod. 103 | Juan Pablo Calderon"];
+nodo6 [ label ="Cod. 147 | Jessica Felicia Veliz"];
+nodo7 [ label ="Cod. 795 | Priscila Maria Molina"];
+nodo8 [ label ="Cod. 960 | Jherson Jose Hevia"];
+nodo9 [ label ="Cod. 770 | Zoe Fabiola Hernandez"];
+nodo10 [ label ="Cod. 770 | Maritza Alexandra Meza"];
+nodo0->nodo1
+nodo0->nodo2
+nodo0->nodo3
+nodo1->nodo5
+nodo1->nodo6
+nodo2->nodo4
+nodo5->nodo7
+nodo5->nodo8
+nodo5->nodo9
+nodo9->nodo10
+nodo7->nodo10
+nodo8->nodo10
+}

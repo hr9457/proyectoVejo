@@ -1,0 +1,50 @@
+organigrama:"Dev Ops":{    
+trabajador:{     codigo:433;      
+nombre:" Mario Arnulfo Prera";     
+superiores:{};    
+}   
+ 
+trabajador:{     codigo:107;      
+nombre:" Jose Fernando Aguirre";     
+superiores:{433};    
+}   
+
+ trabajador:{     codigo:017;      
+nombre:" Jorge Daniel Morales";     
+superiores:{433};    
+}
+     
+trabajador:{     codigo:103;      
+nombre:" Eduardo Javier Florian";     
+superiores:{433};    
+}     
+
+trabajador:{     codigo:147;      
+nombre:" Donoban Manuel Orellana";    
+ superiores:{017};    
+}
+
+trabajador:{    codigo:019;    
+nombre:" Juan Pablo Calderon";    
+superiores:{017};  
+}        
+
+trabajador:{    codigo:795;                   
+nombre:" Jessica Felicia";  
+superiores:{103};  
+}      
+
+trabajador:{    codigo:960;    
+nombre:" Priscila Maria Molina";    
+superiores:{103};  
+}      
+
+trabajador:{    codigo:770;    
+nombre:" Jherson Jose Hevia";    
+superiores:{103};  
+}     
+
+trabajador:{    codigo:796;    
+nombre:" Zoe Fabiola Hernandez";    
+superiores:{795, 960, 770};  
+}      

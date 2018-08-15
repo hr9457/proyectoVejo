@@ -1,0 +1,18 @@
+C:\Users\luiis\Desktop\SegundoSemestre2018\Practica1_2S2018_201212527\Practica1_2S2018_201212527\bin\Debug\Practica1_2S2018_201212527.exe.config
+C:\Users\luiis\Desktop\SegundoSemestre2018\Practica1_2S2018_201212527\Practica1_2S2018_201212527\bin\Debug\Practica1_2S2018_201212527.exe
+C:\Users\luiis\Desktop\SegundoSemestre2018\Practica1_2S2018_201212527\Practica1_2S2018_201212527\bin\Debug\Practica1_2S2018_201212527.pdb
+C:\Users\luiis\Desktop\SegundoSemestre2018\Practica1_2S2018_201212527\Practica1_2S2018_201212527\obj\Debug\Practica1_2S2018_201212527.csprojResolveAssemblyReference.cache
+C:\Users\luiis\Desktop\SegundoSemestre2018\Practica1_2S2018_201212527\Practica1_2S2018_201212527\obj\Debug\Practica1_2S2018_201212527.Form1.resources
+C:\Users\luiis\Desktop\SegundoSemestre2018\Practica1_2S2018_201212527\Practica1_2S2018_201212527\obj\Debug\Practica1_2S2018_201212527.Properties.Resources.resources
+C:\Users\luiis\Desktop\SegundoSemestre2018\Practica1_2S2018_201212527\Practica1_2S2018_201212527\obj\Debug\Practica1_2S2018_201212527.csproj.GenerateResource.Cache
+C:\Users\luiis\Desktop\SegundoSemestre2018\Practica1_2S2018_201212527\Practica1_2S2018_201212527\obj\Debug\Practica1_2S2018_201212527.exe
+C:\Users\luiis\Desktop\SegundoSemestre2018\Practica1_2S2018_201212527\Practica1_2S2018_201212527\obj\Debug\Practica1_2S2018_201212527.pdb
+C:\Users\HECTOR\Desktop\Nueva carpeta\Practica1_2S2018_201212527\Practica1_2S2018_201212527\bin\Debug\Practica1_2S2018_201212527.exe.config
+C:\Users\HECTOR\Desktop\Nueva carpeta\Practica1_2S2018_201212527\Practica1_2S2018_201212527\obj\Debug\Practica1_2S2018_201212527.exe
+C:\Users\HECTOR\Desktop\Nueva carpeta\Practica1_2S2018_201212527\Practica1_2S2018_201212527\obj\Debug\Practica1_2S2018_201212527.pdb
+C:\Users\HECTOR\Desktop\Nueva carpeta\Practica1_2S2018_201212527\Practica1_2S2018_201212527\bin\Debug\Practica1_2S2018_201212527.exe
+C:\Users\HECTOR\Desktop\Nueva carpeta\Practica1_2S2018_201212527\Practica1_2S2018_201212527\bin\Debug\Practica1_2S2018_201212527.pdb
+C:\Users\HECTOR\Desktop\Nueva carpeta\Practica1_2S2018_201212527\Practica1_2S2018_201212527\obj\Debug\Practica1_2S2018_201212527.csprojResolveAssemblyReference.cache
+C:\Users\HECTOR\Desktop\Nueva carpeta\Practica1_2S2018_201212527\Practica1_2S2018_201212527\obj\Debug\Practica1_2S2018_201212527.Form1.resources
+C:\Users\HECTOR\Desktop\Nueva carpeta\Practica1_2S2018_201212527\Practica1_2S2018_201212527\obj\Debug\Practica1_2S2018_201212527.Properties.Resources.resources
+C:\Users\HECTOR\Desktop\Nueva carpeta\Practica1_2S2018_201212527\Practica1_2S2018_201212527\obj\Debug\Practica1_2S2018_201212527.csproj.GenerateResource.Cache
